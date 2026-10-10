@@ -1,0 +1,6 @@
+{
+  "name": "Waqar Smart Calculator",
+  "description": "Premium smart calculator with basic and scientific modes, calculation history, memory functions, and dark/light themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
